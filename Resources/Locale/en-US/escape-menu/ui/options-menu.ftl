@@ -113,9 +113,9 @@ ui-options-interface-label = Interface
 ## Funky Station
 ui-options-crayon-overlay-transparency = Crayon overlay transparency
 
-ui-options-auto-fill-highlights = Auto-fill the highlights with the character's information
-ui-options-highlights-color = Highlighs color:
-ui-options-highlights-color-example = This is an highlighted text!
+ui-options-auto-fill-highlights = Auto-fill the highlights with the current character's name and role
+ui-options-highlights-color = Highlight color:
+ui-options-highlights-color-example = This is a highlight!
 ui-options-show-held-item = Show held item next to cursor
 ui-options-show-combat-mode-indicators = Show combat mode indicators with cursor
 ui-options-opaque-storage-window = Opaque storage window
